@@ -1,0 +1,43 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Nov 24 16:08:30 2022
+[*]
+[dumpfile] "tb_charbuf.vcd"
+[dumpfile_mtime] "Thu Nov 24 16:07:36 2022"
+[dumpfile_size] 11723
+[savefile] "charbuf.gtkw"
+[timestart] 0
+[size] 1740 752
+[pos] 51 72
+*-16.000000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_charbuf.
+[sst_width] 233
+[signals_width] 208
+[sst_expanded] 1
+[sst_vpaned_height] 190
+@200
+-tb_charbuf
+@820
+[color] 2
+tb_charbuf.msg[383:0]
+@420
+tb_charbuf.passed
+tb_charbuf.total
+@200
+-
+-charbuf
+@28
+tb_charbuf.clk
+tb_charbuf.rst
+tb_charbuf.bksp
+tb_charbuf.clr
+tb_charbuf.enable
+@22
+tb_charbuf.in_char[3:0]
+@28
+tb_charbuf.is_ctrl
+tb_charbuf.is_empty
+@22
+tb_charbuf.out[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
